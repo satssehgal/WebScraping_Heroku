@@ -1,7 +1,6 @@
 # Automate Web Scraping to Excel using Heroku
 
-This code will allow you to scrape a page automatically, process it and email it to you based on a user defined schedule. 
-This snippet of code will allow you to deploy your python script to Heroku and run a scheduler. This is meant for free account that do not have a credit card on file. You would need to download add-ons but to do so you need a credit card on file. This code allows you to run a scheduler without a credit card on file. 
+This code will allow you to scrape a page automatically, process it and email it to yourself using sendgrid based on a user defined schedule. This snippet of code will allow you to deploy your python script to Heroku and run a custom scheduler. This is meant for free accounts that do not have a credit card on file. Otherwise you would need to download add-ons but to do so you need a credit card on file. This code allows you to run a scheduler without a credit card on file. 
 
 ## Instructions
 1) Clone the repo
