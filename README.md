@@ -6,7 +6,7 @@ This code will allow you to scrape a page automatically, process it and email it
 1) Clone the repo
 2) Get your API key from sendgrid to send emails
 3) Update apikey.py with your API key, to and from email addresses
-4) Ensure you keep the Procfile and requirements.txt in the main file
+4) Ensure you keep the Procfile and requirements.txt in the same dir as scraper.py
 5) Edit scraper.py to the schedule you would like to use (near bottom)
 
 ## Deployment to Heroku Instructions (Heroku Git)
