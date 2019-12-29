@@ -18,7 +18,7 @@ This snippet of code will allow you to deploy your python script to Heroku and r
 6) Type 'git add .'
 7) Type ' git commit -am "version 1"'
 8) Type 'git push heroku master'
-9) Now you need to allocate a dyno to do the work. Type 'heroku ps:scale web=1'
+9) Now you need to allocate a dyno to do the work. Type 'heroku ps:scale worker=1'
 10) If you want to check to logs to make sure its working type 'heroku logs --tail'
 
-Now your code will continue to run until you stop the dyno. To stop it scale it down using the command 'heroku ps:scale web=0'
+Now your code will continue to run until you stop the dyno. To stop it scale it down using the command 'heroku ps:scale worker=0'
