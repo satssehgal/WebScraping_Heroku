@@ -2,6 +2,9 @@
 
 This code will allow you to scrape a page automatically, process it and email it to yourself using sendgrid based on a user defined schedule. This snippet of code will allow you to deploy your python script to Heroku and run a custom scheduler. This is meant for free accounts that do not have a credit card on file. Otherwise you would need to download add-ons but to do so you need a credit card on file. This code allows you to run a scheduler without a credit card on file. 
 
+## Video Examples
+Youtube - https://youtu.be/qquCAgwvL8Q
+
 ## Instructions
 1) Clone the repo
 2) Get your API key from sendgrid to send emails
