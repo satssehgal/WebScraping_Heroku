@@ -12,7 +12,7 @@ schedule==0.6.0
 sendgrid==6.1.0
 six==1.13.0
 soupsieve==1.9.5
-urllib3==1.25.7
+urllib3==1.25.8
 Flask==1.1.1
 Flask-Compress==1.4.0
 Flask-SeaSurf==0.2.2
